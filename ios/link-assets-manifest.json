@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf",
+      "sha1": "3facd3e884e9bf68a5d446ace272d0f6113ec300"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-BoldItalic.ttf",
+      "sha1": "9a71b007a39a17c0abfcd16c66c5e7e69c2bbcaa"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-Medium.ttf",
+      "sha1": "7292d3ea3a1bbda59d2dde5ebef7c2f50a924b85"
+    }
+  ]
+}
